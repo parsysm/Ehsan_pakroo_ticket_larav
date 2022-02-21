@@ -1,5 +1,5 @@
 
-#### This Project Create bY Ehsan Pakroo For AfroozWeb Testing Project (Task 1)
+#### This Project Create bY Ehsan Pakroo For Check Testing Project (Task 1)
 - Hi I am Ehsan Pakroo Created project with laravel
 * For Contact To Me : Pakroo.ehsan@yahoo.com
 
@@ -20,9 +20,4 @@
 
 - Reply A ticket route is available for Customer and Supporter team ( is_customer field (User's table) detect Customer or Support team level )
 
-
-## AfroozWeb
-
-Ty for see This Git.
-- [AfroozWeb](https://afrozweb.ir/)
 
